@@ -1,0 +1,10 @@
+﻿  point_sorted.cpp
+  un11_2.cpp
+D:\ITMO\с++\дз\un11_2\un11_2\un11_2.cpp(56,75): warning C4244: аргумент: преобразование "_Rep" в "unsigned int", возможна потеря данных
+D:\ITMO\с++\дз\un11_2\un11_2\un11_2.cpp(56,75): warning C4244:         with
+D:\ITMO\с++\дз\un11_2\un11_2\un11_2.cpp(56,75): warning C4244:         [
+D:\ITMO\с++\дз\un11_2\un11_2\un11_2.cpp(56,75): warning C4244:             _Rep=__int64
+D:\ITMO\с++\дз\un11_2\un11_2\un11_2.cpp(56,75): warning C4244:         ]
+D:\ITMO\с++\дз\un11_2\un11_2\un11_2.cpp(103,28): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+  un11_2.vcxproj -> D:\ITMO\с++\дз\un11_2\x64\Debug\un11_2.exe
